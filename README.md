@@ -1,4 +1,4 @@
-[![](https://jitpack.io/v/ggjjack/jlog.svg)](https://jitpack.io/#ggjjack/jlog)
+[![](https://jitpack.io/v/ggjjack/AndroidProxyWebView.svg)](https://jitpack.io/#ggjjack/AndroidProxyWebView)
 
 # ProxyWebView
 Library to help webviews use proxies
