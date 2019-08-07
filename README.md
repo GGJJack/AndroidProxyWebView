@@ -21,7 +21,7 @@ App gradle
 ```
 dependencies {
   ...
-  implementation 'com.github.ggjjack:AndroidProxyWebView:1.0.2'
+  implementation 'com.github.ggjjack:AndroidProxyWebView:1.0.0'
   ...
 }
 ```
